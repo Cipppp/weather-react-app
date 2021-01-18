@@ -10,7 +10,7 @@ body,
 
 .main-container {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
-    url('../public/images/fog.jpg');
+    url('https://cdn.pixabay.com/photo/2016/11/22/19/33/fog-1850228_960_720.jpg');
   background-size: cover;
   background-position: center;
 }
